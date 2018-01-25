@@ -1,0 +1,25 @@
+h1 {
+	text-align: center; 
+	color:  #72e070;
+	background-color:#701f45;
+	border-style: double;
+	margin: 0;
+
+}
+
+
+ #todoForm{
+	background-color: #72e070;
+
+} 
+
+
+
+#todoInput {
+	margin: 10% 15%;
+
+}
+
+
+
+
